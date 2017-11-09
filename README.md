@@ -1,2 +1,6 @@
 # CnnClassifyFlowers
 use cnn to classify flowers
+数据集为5种花共3000张左右的图片
+采用卷积神经网络进行分类
+将训练数据分为训练集和验证集来评估模型的性能
+batchsize和epoch可自行调节
